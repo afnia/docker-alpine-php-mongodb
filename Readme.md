@@ -1,5 +1,11 @@
 # Docker - Alpine php-mongodb
 
+Container Image:
+```
+afnia/docker-alpine-php-mongodb
+```
+
+
 Dockerfile
 
 ```
